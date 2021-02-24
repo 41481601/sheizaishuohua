@@ -3,7 +3,10 @@
 body {
 	background: #f4f5f8;
 }
-
+/* 廖 */
+th.common img:first-child {
+    width: 30px !important;
+}
 a:hover {
 	color: #ff8800;
 	text-decoration: none;

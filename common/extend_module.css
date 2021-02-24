@@ -1651,7 +1651,7 @@
 }
 /* 论坛内容的回复 */
 .ggq-nron .ggq-nrlc {
-	/* margin-bottom: 20px; */
+	margin-bottom: 5px;
 	background: #fff;
 	border-radius: 5px;
 	overflow: hidden;
