@@ -1649,9 +1649,9 @@
 .ad .pls {
 	height: 0;
 }
-
+/* 论坛内容的回复 */
 .ggq-nron .ggq-nrlc {
-	margin-bottom: 20px;
+	/* margin-bottom: 20px; */
 	background: #fff;
 	border-radius: 5px;
 	overflow: hidden;
@@ -2557,3 +2557,5 @@
 }
 
 /** end **/
+
+

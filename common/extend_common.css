@@ -737,3 +737,11 @@ a.pnc {
 .block {
     margin: 0px 0px 0;
 }
+
+/* 廖 */
+th.common img:first-child {
+    width: 30px !important;
+}
+#thread_types .vm{
+	width: 25px;
+}
